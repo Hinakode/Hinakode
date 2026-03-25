@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Fullstack`**
 
-Olá! Me chamo Pedro José, tenho 20 anos e sou natural de Alagoas, atualmente estou cursando ciência da computação na `UNIMA` e também estou fazendo um curso de desenvolvimento fullstack. Sempre fui fã da area de tecnologias e estou sempre buscando me aperfeiçoar nela seja atraves de cursos ou projetos proprios, meu foco de estudo atualmente esta sendo HTML, CSS, JavaScript, Python e estou planejando me aprofundar mais em Java.Pretendo utilizar este espaço no github na forma de um portifolio, reunindo meus projetos envolvendo as linguagens que estou estudando
+Olá! Me chamo Pedro José, tenho 20 anos e sou natural de Alagoas, atualmente estou cursando ciência da computação na `UNIMA` e também estou fazendo um curso de desenvolvimento fullstack. Sempre fui fã da área de tecnologias e estou sempre buscando me aperfeiçoar nela seja através de cursos ou projetos próprios, meu foco de estudo atualmente esta sendo HTML, CSS, JavaScript, Python e estou planejando me aprofundar mais em Java.Pretendo utilizar este espaço no github na forma de um portifolio, reunindo meus projetos envolvendo as linguagens que estou estudando
 
 <p align="left">
     <a href="https://github.com/Hinakode?tab=repositories&sort=stargazers">
