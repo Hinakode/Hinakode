@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Fullstack`**
 
-Olá! Me chamo Pedro José, tenho 20 anos e sou natural de Alagoas, atualmente estou cursando ciência da computação na `UNIMA` e também estou fazendo um curso de desenvolvimento fullstack. Sempre fui fã da área de tecnologias e estou sempre buscando me aperfeiçoar nela seja através de cursos ou projetos próprios, meu foco de estudo atualmente esta sendo HTML, CSS, JavaScript, Python e estou planejando me aprofundar mais em Java.Pretendo utilizar este espaço no github na forma de um portifolio, reunindo meus projetos envolvendo as linguagens que estou estudando
+Olá! Me chamo Pedro José, tenho 20 anos e sou natural de Alagoas, atualmente estou cursando ciência da computação na `UNIMA` e também estou fazendo um curso de desenvolvimento fullstack. Sempre fui fã da área de tecnologias e estou sempre buscando me aperfeiçoar nela seja através de cursos ou projetos próprios, meu foco de estudo atualmente esta sendo HTML, CSS, JavaScript, ReactJS, TypeScript, NextJS, Node JS, Nest JS, SaaS, Python e estou planejando me aprofundar mais em Java.Pretendo utilizar este espaço no github na forma de um portifolio, reunindo meus projetos envolvendo as linguagens que estou estudando
 
 <p align="left">
     <a href="https://github.com/Hinakode?tab=repositories&sort=stargazers">
@@ -49,6 +49,30 @@ Olá! Me chamo Pedro José, tenho 20 anos e sou natural de Alagoas, atualmente e
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
+<img 
+    align="left" 
+    alt="TypeScript"
+    title="TypeScript" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="React"
+    title="React" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Next.js" 
+    title="Next.js"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
+/>
 
 
 
@@ -60,6 +84,14 @@ Olá! Me chamo Pedro José, tenho 20 anos e sou natural de Alagoas, atualmente e
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="SASS" 
+    title="SASS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
 />
 
 <br/>
