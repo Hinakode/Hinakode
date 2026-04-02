@@ -2,8 +2,9 @@
 
 **`Desenvolvedor Fullstack`**
 
-Olá! Me chamo Pedro José, tenho 20 anos e sou natural de Alagoas, atualmente estou cursando ciência da computação na `UNIMA` e também estou fazendo um curso de desenvolvimento fullstack. Sempre fui fã da área de tecnologias e estou sempre buscando me aperfeiçoar nela seja através de cursos ou projetos próprios, meu foco de estudo atualmente esta sendo HTML, CSS, JavaScript, ReactJS, TypeScript, NextJS, Node JS, Nest JS, SaaS, Python e estou planejando me aprofundar mais em Java.Pretendo utilizar este espaço no github na forma de um portifolio, reunindo meus projetos envolvendo as linguagens que estou estudando
+Olá! Me chamo Pedro José, tenho 20 anos e sou natural de Alagoas, atualmente estou cursando ciência da computação na `UNIMA` e também estou fazendo um curso de desenvolvimento fullstack. Sempre fui fã da área de tecnologias e estou sempre buscando me aperfeiçoar nela seja através de cursos ou projetos próprios, meu foco de estudo atualmente esta sendo HTML, CSS, JavaScript, ReactJS, TypeScript, NextJS, Node JS, Nest JS, SaaS, Python e estou planejando me aprofundar mais em Java.Pretendo utilizar este espaço no github na forma de um portifolio, reunindo meus projetos envolvendo as linguagens que estou estudando.
 
+Hello! My name is Pedro José, I'm 20 years old and I'm from Alagoas, Brazil. I'm currently studying Computer Science at `UNIMA` and also taking a full-stack development course. I've always been a fan of technology and I'm always looking to improve my skills through courses or my own projects. My current study focus is on HTML, CSS, JavaScript, ReactJS, TypeScript, NextJS, Node.js, NestJS, SaaS, Python, and I'm planning to delve deeper into Java. I intend to use this space on GitHub as a portfolio, showcasing my projects involving the languages ​​I'm studying.
 <p align="left">
     <a href="https://github.com/Hinakode?tab=repositories&sort=stargazers">
         <img 
